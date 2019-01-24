@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a8ebd181cf5c365c53c92d0a7d7b5325.js"
+  "/iwant-pwa/precache-manifest.b4e267fdfbc13228ddbabf9103ea4a4d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "iWant"});
